@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.86e190f9.css",
+    "main.js": "/static/js/main.6a40544b.js",
+    "static/js/703.09a04313.chunk.js": "/static/js/703.09a04313.chunk.js",
+    "static/js/198.134ac0a2.chunk.js": "/static/js/198.134ac0a2.chunk.js",
+    "static/js/787.c55df8ee.chunk.js": "/static/js/787.c55df8ee.chunk.js",
+    "static/media/faster_hiring.png": "/static/media/faster_hiring.cbfd55fa57c42fc151de.png",
+    "static/media/primeicons.svg": "/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/primeicons.eot": "/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/rala_portal_logo.png": "/static/media/rala_portal_logo.828b0418fe1a208e7031.png",
+    "static/media/default-edit-profile-picture.png": "/static/media/default-edit-profile-picture.1e254d11f46df1d773ac.png",
+    "static/media/Vienna-Modern-Resume-Template.pdf": "/static/media/Vienna-Modern-Resume-Template.f175ced8358f1f15d247.pdf",
+    "static/media/primeicons.woff2": "/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "index.html": "/index.html",
+    "static/media/Sample_CSV_format.csv": "/static/media/Sample_CSV_format.d027298a8aceea3bfe2c.csv",
+    "main.86e190f9.css.map": "/static/css/main.86e190f9.css.map",
+    "main.6a40544b.js.map": "/static/js/main.6a40544b.js.map",
+    "703.09a04313.chunk.js.map": "/static/js/703.09a04313.chunk.js.map",
+    "198.134ac0a2.chunk.js.map": "/static/js/198.134ac0a2.chunk.js.map",
+    "787.c55df8ee.chunk.js.map": "/static/js/787.c55df8ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86e190f9.css",
+    "static/js/main.6a40544b.js"
+  ]
+}
